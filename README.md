@@ -13,3 +13,7 @@ This template is based on the official template of Nuxt. You can find it in the 
 ## How to work
 
 This quick-start is only a combination of [nuxt](https://github.com/nuxt) and [electron-vite](https://github.com/electron-vite) . You can refer to their official docs separately to learn more.
+
+
+
+npx shadcn-vue@0.10.4 add
